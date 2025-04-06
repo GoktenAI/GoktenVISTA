@@ -1,0 +1,8 @@
+model:
+  path: models/yolo.pt
+
+data:
+  test_video: data/test/test_video.mp4
+
+output:
+  dir: output/
