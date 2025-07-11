@@ -1,0 +1,12 @@
+model:
+  path: models/best (1).pt
+
+data:
+  frame_dir: data/test/frames  
+
+position:
+  path: veri/pozisyonlar.json  # pozisyon verisinin yeri
+
+output:
+  dir: output/
+  result_json: output/result.json
