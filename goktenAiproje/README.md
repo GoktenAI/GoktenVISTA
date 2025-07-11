@@ -53,12 +53,4 @@ Bu yapı sayesinde:
 
 ---
 
-## 🧪 Önerilen Geliştirme Yönleri
-
-- Optical Flow veya Kalman filtresi gibi gelişmiş konum kestirimi teknikleri entegre edilebilir.
-- LSTM tabanlı hareket tahmin algoritmaları eklenebilir.
-- Karar modülü daha dinamik hale getirilerek durumsal senaryolar işlenebilir.
-
----
-
 > 📌 Not: Bu belge sadece modül yapısını ve dosya içeriklerini açıklamaktadır. Projenin genel amacı ve yarışma kapsamı ayrı bir README dosyasında ele alınacaktır.
